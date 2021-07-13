@@ -1,4 +1,4 @@
-# Topic-Modeling-using-LDA
+# Topic Modeling
 
 Topic modeling is a type of statistical modeling for discovering the abstract “topics” that occur in a collection of documents.
 This script performs *Topic Modelling* using algorithms mentioned below. Further more,other algorithms like LSA,PSLA,lda2vec can also be implemented
@@ -8,7 +8,7 @@ This script performs *Topic Modelling* using algorithms mentioned below. Further
 * LDA Mallet Model - a Toolkit 
 
 
-> To use LDA Mallet Model, download the zip file from : http://mallet.cs.umass.edu/download.php.
+> To use LDA Mallet Model, download the zip file from : http://mallet.cs.umass.edu/download.php. 
 > Once installed and unzipped, set the environment variable %MALLET_HOME% to the point to the MALLET
 
 
@@ -40,4 +40,4 @@ This script performs *Topic Modelling* using algorithms mentioned below. Further
 
 ## Resources to delve more
 1. Topic Modelling : https://monkeylearn.com/blog/introduction-to-topic-modeling/
-2. LDA : 
+2. Appraoches : https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05
