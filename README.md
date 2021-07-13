@@ -16,5 +16,5 @@ This script performs *Topic Modelling* and uses the algorithms mentioned below
 
 ## Pipeline
 
-![alt text](https://raw.githubusercontent.com/username/Topic Modelling/branch/path/to/img.png)
+![Pipeline Overview](images/Capture.JPG)
 
