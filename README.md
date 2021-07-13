@@ -1,9 +1,10 @@
 # Topic-Modeling-using-LDA
 
-This script performs *Topic Modelling* and uses the algorithms mentioned below
+Topic modeling is a type of statistical modeling for discovering the abstract “topics” that occur in a collection of documents.
+This script performs *Topic Modelling* using algorithms mentioned below. Further more,other algorithms like LSA,PSLA,lda2vec can also be implemented
 
 ## Algorithms used
-* Latent Dirichlet allocation(LDA)
+* Latent Dirichlet Allocation(LDA)
 * LDA Mallet Model - a Toolkit 
 
 
@@ -37,3 +38,6 @@ This script performs *Topic Modelling* and uses the algorithms mentioned below
   - Visualise the Topics discovered
   - LDA Mallet if your Coherence Value is < 0.5
 
+## Resources to delve more
+1. Topic Modelling : https://monkeylearn.com/blog/introduction-to-topic-modeling/
+2. LDA : 
