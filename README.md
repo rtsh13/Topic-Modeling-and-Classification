@@ -41,4 +41,4 @@ This script performs *Topic Modelling* using algorithms mentioned below. Further
 
 ## Resources to delve more
 1. Topic Modelling : https://monkeylearn.com/blog/introduction-to-topic-modeling/
-2. Appraoches : https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05
+2. Algorithms : https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05
