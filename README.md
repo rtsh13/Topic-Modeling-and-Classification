@@ -19,6 +19,7 @@ This script performs *Topic Modelling* using algorithms mentioned below. Further
 4. pyLDAvis
 5. matplotlib
 6. numpy, pandas
+7. Pickle
 
 ## Pipeline
 
