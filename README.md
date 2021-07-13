@@ -1,7 +1,7 @@
 # Topic Modeling
 
 Topic modeling is a type of statistical modeling for discovering the abstract “topics” that occur in a collection of documents.
-This script performs *Topic Modelling* using algorithms mentioned below. Further more,other algorithms like LSA,PSLA,lda2vec can also be implemented
+This script performs *Topic Modeling* using algorithms mentioned below. Further more,other algorithms like LSA,PSLA,lda2vec can also be implemented
 
 ## Algorithms used
 * Latent Dirichlet Allocation(LDA)
